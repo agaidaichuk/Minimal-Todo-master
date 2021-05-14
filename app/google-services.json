@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700713602183",
+    "project_id": "minimaltodo-516dd",
+    "storage_bucket": "minimaltodo-516dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700713602183:android:db7b51137e45841007bc22",
+        "android_client_info": {
+          "package_name": "com.artem.minimaltodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700713602183-fk0jf9oejegnqvulfkmrak7tnf3135qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk88Pmevc82O-zc4_qD5GwANge4yuk0ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700713602183-fk0jf9oejegnqvulfkmrak7tnf3135qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
